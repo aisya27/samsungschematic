@@ -1,0 +1,2 @@
+# samsungschematic
+SCHEMATIC MIC SAMSUNG 
